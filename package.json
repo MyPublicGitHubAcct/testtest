@@ -1,0 +1,15 @@
+{
+  "name": "testtest",
+  "version": "1.0.0",
+  "description": "<ul>   <li>https://github.com/bahdcasts/testing-javascript</li>   <li>https://github.com/bahdcasts/more-recipes</li>   <li>https://github.com/bahdcasts/testing-javascript-end-to-end</li>   <li>https://github.com/bahdcasts/test-driven-nodejs</li> </ul>",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/test/**/**.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
