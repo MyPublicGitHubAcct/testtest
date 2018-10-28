@@ -1,10 +1,12 @@
 ## Based on the following:
 
-npm init -y
-touch .gitignore
-npm install -dev mocha
+    npm init -y
 
-npm test
+    touch .gitignore
+
+    npm install -dev mocha
+
+    npm test
 
 <ul>
   <li>https://github.com/bahdcasts/testing-javascript</li>
